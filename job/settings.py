@@ -24,7 +24,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'bgrr7rxh3+8o*cy-rgyy3gfg4e8ji*)-5z0gh)t0=siv6rsz+@'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['job-listing-portal-tat.herokuapp.com']
 
